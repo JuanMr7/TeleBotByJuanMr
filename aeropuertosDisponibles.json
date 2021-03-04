@@ -1,6 +1,5 @@
 [
     {
-        "aero": "SEQM",
         "ciud": "GYE",
         "nombre": "Aeropuerto Internacional José Joaquín de Olmedo",
         "ciudad": "Guayaquil",
@@ -8,62 +7,46 @@
         "pais": "Ecuador",      
     },
     {
-        "aero": "",
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-    {
-        "aero": "",
+        {
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-     {
-        "aero": "",
+        {
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-     {
-        "aero": "",
+        {
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-     {
-        "aero": "",
+        {
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-     {
-        "aero": "",
+        {
         "ciud":  "",
         "nombre": "",
         "ciudad":  "",
         "provincia": "",
         "pais": "",
     },
-     {
-        "aero": "",
-        "ciud":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
-    },
-    
-   
 
 ]
