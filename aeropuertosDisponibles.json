@@ -6,7 +6,6 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "pais": "Ecuador",      
-        "hours": ""
     },
     {
         "aero": "",
@@ -15,7 +14,6 @@
         "ciudad":  "",
         "provincia": "",
         "pais": "",
-        "hours": ""
     },
     {
         "aero": "",
@@ -24,61 +22,46 @@
         "ciudad":  "",
         "provincia": "",
         "pais": "",
-        "hours": ""
     },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
+     {
+        "aero": "",
+        "ciud":  "",
+        "nombre": "",
+        "ciudad":  "",
+        "provincia": "",
+        "pais": "",
     },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
+     {
+        "aero": "",
+        "ciud":  "",
+        "nombre": "",
+        "ciudad":  "",
+        "provincia": "",
+        "pais": "",
     },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
+     {
+        "aero": "",
+        "ciud":  "",
+        "nombre": "",
+        "ciudad":  "",
+        "provincia": "",
+        "pais": "",
     },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
+     {
+        "aero": "",
+        "ciud":  "",
+        "nombre": "",
+        "ciudad":  "",
+        "provincia": "",
+        "pais": "",
     },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
-    },
-    {
-        "icao": "",
-        "iata": "",
-        "name": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "hours": ""
+     {
+        "aero": "",
+        "ciud":  "",
+        "nombre": "",
+        "ciudad":  "",
+        "provincia": "",
+        "pais": "",
     },
     
    
