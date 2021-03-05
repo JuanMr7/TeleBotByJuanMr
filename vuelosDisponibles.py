@@ -14,7 +14,7 @@ class Vuelo:
 class Aeropuerto:
     def __init__(self, datos_json):
         self.nombre = datos_json["nombre"]
-        self.codCiudad = datos_json["ciud"]
+        self.ciud = datos_json["ciud"]
         self.pais = datos_json["pais"]
         self.provincia = datos_json["provincia"]
         self.ciudad = datos_json["ciudad"]
