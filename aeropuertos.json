@@ -1,87 +1,87 @@
 [
     {
         "iata": "GYE",
-        "nombre": "Aeropuerto Internacional José Joaquín de Olmedo",
-        "ciudad": "Guayaquil",
-        "provincia": "Guayas",
-        "pais": "Ecuador",      
+        "name": "Aeropuerto Internacional José Joaquín de Olmedo",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "country": "Ecuador"
     },
     {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     },
         {
-        "iata":  "",
-        "nombre": "",
-        "ciudad":  "",
-        "provincia": "",
-        "pais": "",
+        "iata": "",
+        "name": "",
+        "city": "",
+        "state": "",
+        "country": ""
     }
 
 
