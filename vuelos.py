@@ -7,10 +7,12 @@ class Vuelo:
         self.aeropuerto_destino = aeropuerto_destino
         self.hora = hora
         self.fecha = fecha
-        self.asientos = 150
+        self.asientos = 100
 
     def __repr__(self):
         return "Aeropuerto destino: " + self.aeropuerto_destino.__repr__() + ", fecha: " + self.fecha.isoformat() +", hora: " + self.hora.isoformat()
+
+
 class Aeropuerto:
     def __init__(self, datos_json):
         self.nombre = datos_json["name"]
