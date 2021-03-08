@@ -13,12 +13,12 @@ class Vuelo:
         return "Aeropuerto destino: " + self.aeropuerto_destino.__repr__() + ", fecha: " + self.fecha.isoformat() +", hora: " + self.hora.isoformat()
 class Aeropuerto:
     def __init__(self, datos_json):
-        self.nombre = datos_json["nombre"]
+        self.nombre = datos_json["name"]
         self.iata = datos_json["iata"]
-        self.pais = datos_json["pais"]
-        self.provincia = datos_json["provincia"]
-        self.ciudad = datos_json["ciudad"]
-        self.vuelosDisponibles = []
+        self.pais = datos_json["country"]
+        self.estado = datos_json["state"]
+        self.ciudad = datos_json["city"]
+        self.vuelos = []
 
     def generar_vuelos(self, aeropuertos, min_vuelos = 4, max_vuelos = 8):
         for i in range( 0, rd.randrange(min_vuelos, max_vuelos)):
