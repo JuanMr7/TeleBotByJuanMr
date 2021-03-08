@@ -22,3 +22,4 @@ class Usuario:
     def reset(self):
         self.__vuelos_temp__ = []
         self.__cant_asientos_temp__ = 0
+        
