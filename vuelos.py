@@ -30,10 +30,10 @@ class Aeropuerto:
             hora = datetime.time(rd.randrange(0, 24), rd.randrange(0, 60))
             fecha = datetime.date.today() + datetime.timedelta(days= rd.randrange(1, 16))
             vuelo = Vuelo(aeropuerto, hora, fecha, self)
-            self.vuelosDispobibles.append(vuelo)
+            self.vuelos.append(vuelo)
 
     def eliminar_vuelos(self):
-        for vuelo in self.vuelosDisponibles:
+        for vuelo in self.vuelos:
             print("Aeropuerto: " + vuelo.aeropuerto_destino)
 
     def __repr__(self):
