@@ -3,6 +3,5 @@
      "ayuda" : ["Le agradecemos que utilice nuestro bot\n SOF-MA-3-1",
                  "»Este es el panel de instrucciones, para volverlo a mostrar use /help \n\n",
                  "»Para ver los vuelos que tenemos disponibles usar el comando /list \n\n"]
-    "aceptar" : "Su vuelo ha sido registrado con éxito.",
     "cancelar" : "Su registro ha sido cancelado."
 }
