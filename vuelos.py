@@ -22,7 +22,7 @@ class Aeropuerto:
         self.ciudad = datos_json["city"]
         self.vuelos = []
 
-    def generar_vuelos(self, aeropuertos, min_vuelos = 4, max_vuelos = 8):
+    def generar_vuelos(self, aeropuertos, min_vuelos, max_vuelos):
         for i in range( 0, rd.randrange(min_vuelos, max_vuelos)):
             aeropuerto = self
 
