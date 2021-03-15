@@ -1,6 +1,6 @@
 {
      "saludo" : "Buenas",
-     "ayuda" : ["Le agradecemos que utilice nuestro bot\n SOF-MA-3-1",
+     "ayuda" : ["Le agradecemos que utilice nuestro bot SOF-MA-3-1",
                  "»Este es el panel de instrucciones, para volverlo a mostrar use /help \n\n",
                  "»Para ver los vuelos que tenemos disponibles usar el comando /list \n\n",
                  "»Use el comando /searchd para buscar los vuelos que tienen como destino el pais o ciudad ingresado. \n Ejemplo: \n /searchd España\n\n",
