@@ -1,5 +1,5 @@
 {
-     "saludo" : "Hey",
+     "saludo" : "Buenas",
      "ayuda" : ["Le agradecemos que utilice nuestro bot\n SOF-MA-3-1",
                  "»Este es el panel de instrucciones, para volverlo a mostrar use /help \n\n",
                  "»Para ver los vuelos que tenemos disponibles usar el comando /list \n\n",
@@ -7,6 +7,6 @@
                  "»Use el comando /searcho para buscar los vuelos que tienen como origen el pais o ciudad ingresado \n Ejemplo: \n /searcho Guayauil\n\n",
                  "»Para comprar el vuelo de ida use el comando /buy_ticket se ingresa el codigo IATA del aeropuerto de origen y de destino y la cantidad de asistentos \n  Ejemplo: \n /buy_ticket GYE PTY 3\n\n",
                  "»Para comprar vuelo de ida-vuelta use el comando /buyrt_ticket se ingresa el codigo IATA del aeropuerto de origen y de destino y la cantidad de asistentos \n Ejemplo:  /buyrt_ticket GYE PTY 3\n\n"],
-     "aceptar" : "Su vuelo ha sido registrado con éxito.",
-     "cancelar" : "Su registro ha sido cancelado."
+     "aceptar" : "Se ha registrado su vuelo.",
+     "cancelar" : "Se ha cancelado con exitosamente."
 }
