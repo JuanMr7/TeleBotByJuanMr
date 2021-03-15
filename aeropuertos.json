@@ -21,40 +21,40 @@
         "country": "Portugal"
     },
             {
-        "iata": "a",
-        "name": "a",
-        "city": "a",
-        "state": "a",
-        "country": "a"
+        "iata": "BUD",
+        "name": "Base Aérea de Beja",
+        "city": "Beja",
+        "state": "Alentejo",
+        "country": "Portugal"
     },
     
             {
-        "iata": "a",
-        "name": "a",
-        "city": "a",
-        "state": "a",
-        "country": "a"
+        "iata": "CLX",
+        "name": "Aeropuerto Clorinda",
+        "city": "Clorinda",
+        "state": "Formosa",
+        "country": "Argentina"
     },
             {
-        "iata": "a",
-        "name": "a",
-        "city": "a",
-        "state": "a",
-        "country": "a"
+        "iata": "PTY",
+        "name": "Aeropuerto Internacional de Tocumen",
+        "city": "Ciudad de Panamá",
+        "state": "Provincia de Panamá",
+        "country": "Panamá"
     },
             {
-        "iata": "a",
-        "name": "a",
-        "city": "a",
-        "state": "a",
-        "country": "a"
+        "iata": "SAL",
+        "name": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+        "city": "San Salvador",
+        "state": "San Salvador",
+        "country": "El Salvador"
     },
             {
-        "iata": "a",
-        "name": "a",
-        "city": "a",
-        "state": "a",
-        "country": "a"
+        "iata": "BCN",
+        "name": "Aeropuerto de Barcelona-El Prat",
+        "city": "Barcelona",
+        "state": "Cataluña",
+        "country": "España"
     }
        
 
